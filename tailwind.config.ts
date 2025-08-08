@@ -61,7 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'popmart-red': 'hsl(var(--popmart-red))',
+				'popmart-red-hover': 'hsl(var(--popmart-red-hover))',
+				'popmart-gray': 'hsl(var(--popmart-gray))',
+				'popmart-text': 'hsl(var(--popmart-text))',
+				'popmart-light-gray': 'hsl(var(--popmart-light-gray))',
+				'reviewer-green': 'hsl(var(--reviewer-green))',
+				'reviewer-gold': 'hsl(var(--reviewer-gold))',
+				'balance-text': 'hsl(var(--balance-text))'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
