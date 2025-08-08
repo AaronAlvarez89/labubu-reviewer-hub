@@ -1,7 +1,6 @@
 import Header from "@/components/Header";
 import Sidebar from "@/components/Sidebar";
 import ProductCard from "@/components/ProductCard";
-import ReviewerSection from "@/components/ReviewerSection";
 import { Input } from "@/components/ui/input";
 import { Search } from "lucide-react";
 
@@ -181,9 +180,6 @@ const Index = () => {
                 ))}
               </div>
             </div>
-            
-            {/* Reviewer Section */}
-            <ReviewerSection />
           </div>
         </main>
       </div>

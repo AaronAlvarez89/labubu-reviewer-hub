@@ -1,6 +1,7 @@
 import { Search, User, Heart, ShoppingCart } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
+import ReviewerSection from "@/components/ReviewerSection";
 
 const Header = () => {
   return (
@@ -38,7 +39,7 @@ const Header = () => {
         </div>
         
         {/* Navigation */}
-        <nav className="flex items-center justify-center py-4 border-t border-border">
+        <nav className="flex items-center justify-between py-4 border-t border-border">
           <div className="flex items-center gap-8 text-sm font-medium">
             <a href="#" className="hover:text-popmart-red transition-colors">NEW & FEATURED</a>
             <a href="#" className="hover:text-popmart-red transition-colors">CATEGORIES</a>
@@ -46,6 +47,11 @@ const Header = () => {
             <a href="#" className="hover:text-popmart-red transition-colors">ACCESSORIES</a>
             <a href="#" className="hover:text-popmart-red transition-colors">MEGA</a>
             <a href="#" className="hover:text-popmart-red transition-colors">STORE PICKUP</a>
+          </div>
+          
+          {/* Reviewer Section in Header */}
+          <div className="flex items-center">
+            <ReviewerSection />
           </div>
         </nav>
       </div>
