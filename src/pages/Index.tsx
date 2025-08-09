@@ -5,13 +5,13 @@ import { Input } from "@/components/ui/input";
 import { Search } from "lucide-react";
 
 // Import all product images
-import labubu1 from "@/assets/labubu-new-1.png";
-import labubu2 from "@/assets/labubu-new-2.png";
-import labubu3 from "@/assets/labubu-new-3.png";
-import labubu4 from "@/assets/labubu-new-4.png";
-import labubu5 from "@/assets/labubu-new-5.png";
-import labubu6 from "@/assets/labubu-new-6.png";
-import labubu7 from "@/assets/labubu-new-7.png";
+import labubu1 from "@/assets/labubu-1.jpg";
+import labubu2 from "@/assets/labubu-2.jpg";
+import labubu3 from "@/assets/labubu-3.jpg";
+import labubu4 from "@/assets/labubu-4.jpg";
+import labubu5 from "@/assets/labubu-5.jpg";
+import labubu6 from "@/assets/labubu-6.jpg";
+import labubu7 from "@/assets/labubu-7.jpg";
 import labubu8 from "@/assets/labubu-8.jpg";
 import labubu9 from "@/assets/labubu-9.jpg";
 import labubu10 from "@/assets/labubu-10.jpg";
