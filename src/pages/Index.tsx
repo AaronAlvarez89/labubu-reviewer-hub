@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 import { Search } from "lucide-react";
 
 // Import all product images
-import labubu1 from "@/assets/labubu-1.jpg";
+import labubu1 from "@/assets/OIP.jpeg";
 import labubu2 from "@/assets/labubu-2.jpg";
 import labubu3 from "@/assets/labubu-3.jpg";
 import labubu4 from "@/assets/labubu-4.jpg";
