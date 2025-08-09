@@ -12,7 +12,7 @@ import labubu4 from "@/assets/m3.jpg";
 import labubu5 from "@/assets/m4.jpg";
 import labubu6 from "@/assets/m5.jpg";
 import labubu7 from "@/assets/m6.jpg";
-import labubu8 from "@/assets/labubu-8.jpg";
+import labubu8 from "@/assets/m7.jpg";
 import labubu9 from "@/assets/labubu-9.jpg";
 import labubu10 from "@/assets/labubu-10.jpg";
 import labubu11 from "@/assets/labubu-11.jpg";
