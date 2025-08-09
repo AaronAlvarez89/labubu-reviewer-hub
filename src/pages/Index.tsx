@@ -36,7 +36,7 @@ const products = [
     price: "$95.99",
     reviewPrice: "$27.50",
     image: labubu2,
-    status: "out-of-stock" as const
+    status: "hot" as const
   },
   {
     id: "3",
@@ -44,7 +44,7 @@ const products = [
     price: "$102.99",
     reviewPrice: "$29.00",
     image: labubu3,
-    status: "out-of-stock" as const
+    status: null
   },
   {
     id: "4",
@@ -52,7 +52,7 @@ const products = [
     price: "$87.99",
     reviewPrice: "$22.50",
     image: labubu4,
-    status: "out-of-stock" as const
+    status: null
   },
   {
     id: "5",
@@ -84,7 +84,7 @@ const products = [
     price: "$98.99",
     reviewPrice: "$28.00",
     image: labubu8,
-    status: "out-of-stock" as const
+    status: null
   },
   {
     id: "9",
@@ -92,7 +92,7 @@ const products = [
     price: "$104.50",
     reviewPrice: "$30.00",
     image: labubu9,
-    status: "out-of-stock" as const
+    status: "coming-soon" as const
   },
   {
     id: "10",
